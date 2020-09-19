@@ -1,0 +1,36 @@
+.btn {
+  display: flex;
+  justify-content: center;
+}
+.btnInc {
+  width: 30px;
+  height: 30px;
+  background-color: green;
+  border: transparent;
+  font-size: large;
+  color: white;
+  border-radius: 10%;
+  outline: none;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.btnDec {
+  width: 30px;
+  height: 30px;
+  background-color: rgb(13, 137, 238);
+  border: transparent;
+  font-size: large;
+  color: white;
+  border-radius: 10%;
+  outline: none;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.btnRes {
+  height: 23px;
+  background-color: red;
+  color: wheat;
+  outline: none;
+  border-radius: 10%;
+  border: transparent;
+}
